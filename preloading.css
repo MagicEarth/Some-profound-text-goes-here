@@ -1,16 +1,28 @@
-#preloading{
-    position: fixed;
-    top: 0;
-    width: 51%;
-    height: 100%;
-    z-index: 1000;
+#blur {
     -webkit-filter: blur(5px);
-    -moz-filter: blur(5px);
-    -o-filter: blur(5px);
-    -ms-filter: blur(5px);
     filter: blur(5px);
 }
-#afterloading{
-  z-index: 999;
+.bg{
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -5;
+
+    /* Preserve aspet ratio */
+    min-width: 100%;
+    min-height: 100%;
 
 }
+
+body{
+    width: 100%;
+    height: 100%;
+}
+
