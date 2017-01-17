@@ -9,8 +9,8 @@
   <script src="js/preloading.js"></script>
 </head>
 <body>
-<div id="preloading">
 <div id="afterloading">
+  <div id="preloading">
   Spielvorbereitung
 Vor dem Beginn einer Runde kann ein Spieler mit Hilfe eines automatischen Matchmaking-Systems Mitspieler und Gegner suchen. Alternativ kann ein Spieler für ein freies Spiel seine Mitspieler manuell suchen oder aus seiner Freundesliste einladen. In diesem Fall findet das Matchmaking-System keine Verwendung. Sind genügend Spieler für beide Teams gefunden (fünf je Team im klassischen Modus), landen alle Spieler der Partie gemeinsam in der Champion-Auswahl. Hier kann jeder Spieler seinen gewünschten Champion, eine Spielfigur mit individuellen Fähigkeiten, Stärken und Schwächen, auswählen. Der Spieler erfüllt dabei die Rolle des Beschwörers, der diese Figur beschwört und steuert. Je nach Spielmodus können alle Spieler gleichzeitig wählen oder jeweils abwechselnd pro Team. Im abwechselnden Auswahlmodus können zudem vor der Auswahl von drei unterschiedlichen Mitgliedern jedes Teams abwechselnd je ein Champion „gebannt“ werden. Gebannte Champions können von keinem Spieler beider Teams gewählt werden.
 
